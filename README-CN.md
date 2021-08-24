@@ -70,6 +70,21 @@ EXCLUDE_PATTERNS = *.md
 
 使用*GNU General Public*协议，请参考`LICENSE`文件。
 
+## 引用
+
+```tex
+@software{chenzs108_2021_4698332,
+  author       = {Chenzs108},
+  title        = {czs108/Dll-Injector: v1.0.0},
+  month        = apr,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.4698332},
+  url          = {https://doi.org/10.5281/zenodo.4698332}
+}
+```
+
 ## 作者
 
 ***GitHub***：https://github.com/czs108
